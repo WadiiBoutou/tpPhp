@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tpPHP</string>
+    <string-array name="morocco_cities">
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Agadir</item>
+    </string-array>
+
+</resources>
